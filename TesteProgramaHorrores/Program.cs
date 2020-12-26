@@ -9,6 +9,7 @@ namespace TesteProgramaHorrores
             Console.WriteLine("Olá caraio!");
 
             Console.WriteLine("Olokinho meu!!");
+            Console.WriteLine("Tchau!");
         }
     }
 }
