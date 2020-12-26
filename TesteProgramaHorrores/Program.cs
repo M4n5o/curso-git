@@ -7,6 +7,8 @@ namespace TesteProgramaHorrores
         static void Main(string[] args)
         {
             Console.WriteLine("Olá caraio!");
+
+            Console.WriteLine("Olokinho meu!!");
         }
     }
 }
